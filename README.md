@@ -10,7 +10,7 @@
 </div>
 
 <style>
-@keyframes move {
+ @keyframes move {
   0% { transform: translateX(0); }
   100% { transform: translateX(-100%); }
 }
@@ -66,6 +66,11 @@
 <div align="center">
   
 ### ⭐ Thanks for visiting my animated universe!
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+Pasindu+Praveen+Diwyanjana" alt="Typing SVG" /></a>
+
+
+
 
 </div>
 

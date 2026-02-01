@@ -5,22 +5,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Diwyanjana&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p>
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 
-<!-- <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"> -->
- 
-<!-- Animated Waves Background 
-<div style="position: relative; height: 120px; overflow: hidden;">
-  <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif" 
-       style="position: absolute; bottom: 0; width: 100%; animation: move 10s linear infinite;">
-</div> -->
-
-<!--<style>
- @keyframes move {
-  0% { transform: translateX(0); }
-  100% { transform: translateX(-100%); }
-}
-</style> -->
-
----
 
 <h1 align="center">⚡ Diwyanjana ⚡</h1>
 <h3 align="center">🌌 Creative Developer | 🛸 Futuristic Thinker | 🔥 Code Artist</h3>
@@ -61,8 +45,29 @@
 
 ## 🌐 Connect With Me
 <p align="center">
-<a><img src="https://img.shields.io/badge/Instagram-ff007f?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <a href="[YOUR_YOUTUBE_LINK_HERE](https://www.youtube.com/@WebXOriginal)" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+
+  <a href="[YOUR_INSTAGRAM_LINK_HERE](https://www.instagram.com/pasindu_praveen_/)" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-ff007f?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+
+  <a href="[YOUR_FACEBOOK_LINK_1_HERE](https://www.facebook.com/pasindupraveenx)" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook 1">
+  </a>
+
+  <a href="[YOUR_FACEBOOK_LINK_2_HERE](https://www.facebook.com/WebXOriginal)" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook_Alt-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook 2">
+  </a>
+
+  <a href="[YOUR_X_LINK_1_HERE](https://x.com/WebXOriginal)" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X 1">
+  </a>
+
+  <a href="[YOUR_X_LINK_2_HERE](https://x.com/PasinduPravin)" target="_blank">
+    <img src="https://img.shields.io/badge/X_Alt-000000?style=for-the-badge&logo=x&logoColor=white" alt="X 2">
+  </a>
 </p>
 
 ---
@@ -71,7 +76,7 @@
   
 ### ⭐ Thanks for visiting my animated universe!
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+Pasindu+Praveen+Diwyanjana" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+Diwyanjana" alt="Typing SVG" /></a>
 
 
 

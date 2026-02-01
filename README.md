@@ -45,28 +45,28 @@
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="[YOUR_YOUTUBE_LINK_HERE](https://www.youtube.com/@WebXOriginal)" target="_blank">
+  <a href="https://www.youtube.com/@WebXOriginal" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
 
-  <a href="[YOUR_INSTAGRAM_LINK_HERE](https://www.instagram.com/pasindu_praveen_/)" target="_blank">
+  <a href="https://www.instagram.com/pasindu_praveen_/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-ff007f?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 
-  <a href="[YOUR_FACEBOOK_LINK_1_HERE](https://www.facebook.com/pasindupraveenx)" target="_blank">
+  <a href="https://www.facebook.com/pasindupraveenx" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook 1">
   </a>
 
-  <a href="[YOUR_FACEBOOK_LINK_2_HERE](https://www.facebook.com/WebXOriginal)" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook_Alt-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook 2">
+  <a href="https://www.facebook.com/WebXOriginal" target="_blank">
+    <img src="https://img.shields.io/badge/WebX_FB-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook 2">
   </a>
 
-  <a href="[YOUR_X_LINK_1_HERE](https://x.com/WebXOriginal)" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X 1">
+  <a href="https://x.com/WebXOriginal" target="_blank">
+    <img src="https://img.shields.io/badge/X_WebX-000000?style=for-the-badge&logo=x&logoColor=white" alt="X 1">
   </a>
 
-  <a href="[YOUR_X_LINK_2_HERE](https://x.com/PasinduPravin)" target="_blank">
-    <img src="https://img.shields.io/badge/X_Alt-000000?style=for-the-badge&logo=x&logoColor=white" alt="X 2">
+  <a href="https://x.com/PasinduPravin" target="_blank">
+    <img src="https://img.shields.io/badge/X_Personal-000000?style=for-the-badge&logo=x&logoColor=white" alt="X 2">
   </a>
 </p>
 

@@ -1,20 +1,26 @@
-name: Update Space Shooter Game
+name: Generate Space Shooter
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Daily at midnight UTC
-  workflow_dispatch:    # Allows manual trigger
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  update-game:
+  build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: czl9707/gh-space-shooter@v1
+      - uses: Platane/snk@v3
         with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          output-path: 'game.gif'
-          strategy: 'random'
+          github_user_name: Diwyanjana
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

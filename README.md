@@ -1,6 +1,6 @@
 <!-- ANIMATED BACKGROUND -->
 <div align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="example.gif" width="100%"/>
 </div>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Diwyanjana&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p>
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>

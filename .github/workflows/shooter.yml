@@ -12,6 +12,6 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v3
-      - uses: amandeepthesingh/github-space-shooter@master
+      - uses: amandeepthesingh/GitHub-Space-Shooter@master
         with:
           github_user_name: Diwanjana

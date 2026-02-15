@@ -2,8 +2,8 @@ name: Update Space Shooter Game
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Daily at midnight UTC
-  workflow_dispatch:  # Manual run කරන්න පුළුවන්
+    - cron: '0 0 * * 0'  
+  workflow_dispatch:  
 
 permissions:
   contents: write
@@ -17,5 +17,5 @@ jobs:
       - uses: czl9707/gh-space-shooter@v1
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
-          output-path: 'game.gif'  # GIF file එක repo root එකේ save වෙනවා
-          strategy: 'random'       # optional: column, row, or random
+          output-path: 'game.gif'  
+          strategy: 'random'       
